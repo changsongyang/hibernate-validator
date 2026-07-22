@@ -145,7 +145,7 @@
         <weld.version>3.1.1.Final</weld.version>
         <wildfly-arquillian.version>2.2.0.Final</wildfly-arquillian.version>
         <jakarta.ejb-api.version>3.2.5</jakarta.ejb-api.version>
-        <jakarta.interceptor-api.version>1.2.4</jakarta.interceptor-api.version>
+        <jakarta.interceptor-api.version>1.2.5</jakarta.interceptor-api.version>
 
         <!-- JavaMoney dependencies -->
         <javax-money.version>1.0.1</javax-money.version>
